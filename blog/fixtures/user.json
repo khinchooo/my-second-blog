@@ -1,0 +1,19 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "username": "test1",
+      "password": "12345"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 1,
+    "fields": {
+      "title": "hello",
+      "text": "hello world",
+      "author": "1"
+    }
+  }
+]
